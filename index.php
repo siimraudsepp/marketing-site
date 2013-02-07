@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<?= $page == isset($_GET['page']) ? $_GET['page'] = '' : ''?>
+<? $page = isset($_GET['page']) ? $_GET['page'] : 'home'?>
 <??>
 <html lang="en">
 <head>
@@ -77,7 +77,7 @@
         <h3 class="muted">Project name</h3>
     </div>
 
-    <?include 'pages/'.$_GET['page'].'.php';?>
+    <?include 'pages/'.$page.'.php';?>
 
     <div class="row-fluid marketing">
         <div class="span6">

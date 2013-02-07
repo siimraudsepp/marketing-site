@@ -8,7 +8,7 @@
  */
 ?>
 
-<form method="post" action="?page=regatud.php">
+<form method="post" action="regatud.php">
     First name: <input type="text" name="firstname"><br>
     Last name: <input type="text" name="lastname"><br>
     Email: <input type="text" name="email"><br>

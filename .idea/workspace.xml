@@ -20,17 +20,17 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="31" selection-start="36" selection-end="48" vertical-scroll-proportion="40.0">
+            <state line="74" column="21" selection-start="2472" selection-end="2472" vertical-scroll-proportion="0.30973452">
               <folding>
-                <marker date="1360241177061" expanded="true" signature="99:2278" placeholder="..." />
-                <marker date="1360241177061" expanded="true" signature="106:125" placeholder="..." />
-                <marker date="1360241177061" expanded="true" signature="2149:2278" placeholder="..." />
-                <marker date="1360241177061" expanded="true" signature="2181:2278" placeholder="..." />
-                <marker date="1360241177061" expanded="true" signature="2209:2278" placeholder="..." />
-                <marker date="1360241177061" expanded="true" signature="2255:2278" placeholder="..." />
+                <marker date="1360242751465" expanded="true" signature="96:2275" placeholder="..." />
+                <marker date="1360242751465" expanded="true" signature="103:122" placeholder="..." />
+                <marker date="1360242751465" expanded="true" signature="2146:2275" placeholder="..." />
+                <marker date="1360242751465" expanded="true" signature="2178:2275" placeholder="..." />
+                <marker date="1360242751465" expanded="true" signature="2206:2275" placeholder="..." />
+                <marker date="1360242751465" expanded="true" signature="2252:2275" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -59,18 +59,16 @@
       <file leaf-file-name="signup.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/signup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="425" selection-end="425" vertical-scroll-proportion="-10.625">
-              <folding>
-                <element signature="e#6#162#0" expanded="true" />
-              </folding>
+            <state line="5" column="16" selection-start="93" selection-end="93" vertical-scroll-proportion="-3.125">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="regatud.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="regatud.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/regatud.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
+            <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -90,9 +88,9 @@
         <option value="$PROJECT_DIR$/pages/contact.php" />
         <option value="$PROJECT_DIR$/pages/about.php" />
         <option value="$PROJECT_DIR$/pages/home.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/pages/regatud.php" />
         <option value="$PROJECT_DIR$/pages/signup.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -276,6 +274,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/regatud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="16" selection-start="93" selection-end="93" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="63" selection-start="338" selection-end="338" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="-5.625">
@@ -287,38 +306,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="31" selection-start="36" selection-end="48" vertical-scroll-proportion="40.0">
+        <state line="74" column="21" selection-start="2472" selection-end="2472" vertical-scroll-proportion="0.30973452">
           <folding>
-            <marker date="1360241177061" expanded="true" signature="99:2278" placeholder="..." />
-            <marker date="1360241177061" expanded="true" signature="106:125" placeholder="..." />
-            <marker date="1360241177061" expanded="true" signature="2149:2278" placeholder="..." />
-            <marker date="1360241177061" expanded="true" signature="2181:2278" placeholder="..." />
-            <marker date="1360241177061" expanded="true" signature="2209:2278" placeholder="..." />
-            <marker date="1360241177061" expanded="true" signature="2255:2278" placeholder="..." />
+            <marker date="1360242751465" expanded="true" signature="96:2275" placeholder="..." />
+            <marker date="1360242751465" expanded="true" signature="103:122" placeholder="..." />
+            <marker date="1360242751465" expanded="true" signature="2146:2275" placeholder="..." />
+            <marker date="1360242751465" expanded="true" signature="2178:2275" placeholder="..." />
+            <marker date="1360242751465" expanded="true" signature="2206:2275" placeholder="..." />
+            <marker date="1360242751465" expanded="true" signature="2252:2275" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="63" selection-start="338" selection-end="338" vertical-scroll-proportion="-4.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/signup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="425" selection-end="425" vertical-scroll-proportion="-10.625">
-          <folding>
-            <element signature="e#6#162#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/regatud.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
